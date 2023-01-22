@@ -1,0 +1,10 @@
+Dear Sir/Ma’am
+With this letter I would like to express my interest in filling an open vacancy at {desiredOrganization}, in particular, the position of {desiredPosition}.
+I have completed my %{education} studies at %{school}. During these studies, students are readied for the position of %{desiredPosition}. The studies focus on %{educationFocus} as the topics of %{educationTopics} are extensively discussed. In order to make good use of my acquired knowledge and skills, I would like to work for %{desiredOrganization}, in the position of %{desiredPosition}.
+I would describe myself as someone who is %{personalDescription}. I would like to put these characteristics to use within your organization. Given my education at %{school}, I think I am perfect for the position of %{desiredPosition}. The components that were discussed during my studies closely match the skills required for this position.
+I would like to further explain my motivation to work at %{desiredOrganization} during a personal meeting. You can reach me either by phone via %{phonenumber} or by email via %{emailaddress}.
+Thank you for your consideration. I look forward to hearing from you.
+Sincerely,
+%{givenName} %{familyName}
+Attachment: Resume
+
